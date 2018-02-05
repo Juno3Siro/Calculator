@@ -1,6 +1,6 @@
-exports.Add = require('./Addition');
+exports.Add = require('./addition');
 exports.Sub = require('./Subtraction');
-exports.Mul = require('./Multiplication');
-exports.Div = require('./Division');
-exports.Sqrt = require('./Sqrt');
-exports.Pow = require('./Pow');
+exports.Mul = require('./multiplication');
+exports.Div = require('./division');
+exports.Sqrt = require('./sqrt');
+exports.Pow = require('./pow');
